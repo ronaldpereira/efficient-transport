@@ -3,7 +3,8 @@ import libs.container as CONTAINER
 
 class Graph:
     def __init__(self, initial_config, weights):
-        self.start = Node(initial_config, weights)
+        self.node = Node(initial_config, weights)
+        self.total_cost = 0
 
 
 class Node:
