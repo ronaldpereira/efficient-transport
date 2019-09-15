@@ -1,11 +1,11 @@
+import libs.container as CONTAINER
+
+
 def main():
-    height, width = input().split()
+    container = CONTAINER.Container()
 
-    weights = input().split()
-    weights = list(map(lambda x: int(x), weights))
-
-    print(height, width)
-    print(weights)
+    print(container.initial_conf)
+    print(container.final_conf)
 
 if __name__ == "__main__":
     main()

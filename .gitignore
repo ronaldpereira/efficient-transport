@@ -1,4 +1,4 @@
 .vscode
 data/test/
-efficient_transport.out
 output*
+__pycache__
