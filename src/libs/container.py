@@ -11,8 +11,8 @@ class Container:
         self.weights = list(map(lambda x: int(x), weights))
 
         config = Configuration(self.weights)
-        self.initial_conf = config.read_config(self.height)
-        self.final_conf = config.read_config(self.height)
+        self.initial_config = config.read_config(self.height)
+        self.final_config = config.read_config(self.height)
 
 
 class Configuration:
@@ -20,13 +20,13 @@ class Configuration:
         self.weights = weights
 
     def read_config(self, height):
-        conf = [[]] * height
+        config = [[]] * height
         for i in range(height):
             boxes = input().split()
             boxes = list(map(lambda x: int(x), boxes))
-            conf[i] = boxes
+            config[i] = boxes
 
-        return conf
+        return config
 
     def generate_configs(self, base_config):
         configs = []
@@ -38,9 +38,7 @@ class Configuration:
 
                 # Try to move the box horizontally
                 if box_y - 1 >= 0:
-                    configs.append(
-                        self.move_left(deepcopy(base_config), box_x, box_y)
-                    )
+                    configs.append(self.move_left(deepcopy(base_config), box_x, box_y))
         return configs
 
     def move_up(self, config, box_x, box_y):
@@ -48,6 +46,7 @@ class Configuration:
             config[box_x - 1][box_y],
             config[box_x][box_y],
         )
+
         cost = (
             self.weights[config[box_x][box_y] - 1]
             + self.weights[config[box_x - 1][box_y] - 1]
