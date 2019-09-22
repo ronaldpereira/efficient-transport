@@ -9,9 +9,10 @@ def main():
     g = GRAPH.Graph(container)
 
     dijkstra = DIJSKTRA.Dijsktra(g)
-
     dijkstra.execute()
 
+    # prints the minimum distance found
+    # to the final configuration
     print(g.nodes[g.index_final].distance)
 
 
