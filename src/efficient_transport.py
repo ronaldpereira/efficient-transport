@@ -1,14 +1,14 @@
-import libs.container as CONTAINER
-import libs.dijsktra as DIJSKTRA
-import libs.graph as GRAPH
+from libs.container import Container
+from libs.dijsktra import Dijsktra
+from libs.graph import Graph
 
 
 def main():
-    container = CONTAINER.Container()
+    container = Container()
 
-    g = GRAPH.Graph(container)
+    g = Graph(container)
 
-    dijkstra = DIJSKTRA.Dijsktra(g)
+    dijkstra = Dijsktra(g)
     dijkstra.execute()
 
     # prints the minimum distance found

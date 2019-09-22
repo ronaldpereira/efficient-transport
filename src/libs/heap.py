@@ -8,9 +8,8 @@ class Heap:
     def __len__(self):
         return len(self.h)
 
-    def push(self, node):
-        # The id(node) is used for cost tie-breaking
-        heappush(self.h, (node.distance, id(node), node.index))
+    def push(self, node, node_index):
+        heappush(self.h, (node.distance, node_index))
 
     def pop(self):
         return heappop(self.h)[-1]

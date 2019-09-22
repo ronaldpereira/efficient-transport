@@ -1,7 +1,7 @@
 from itertools import permutations, zip_longest
 from math import factorial
 
-import libs.container as CONTAINER
+from libs.container import Configuration
 
 
 class Graph:
@@ -13,51 +13,39 @@ class Graph:
         self.final_config = container.final_config
         self.nodes = []
         self.lookup = {}
-        self.generate_all_nodes()
+        self.generate_source_target_nodes()
 
-    def generate_all_nodes(self):
-        boxes = []
-        for i in range(len(self.initial_config)):
-            for j in range(len(self.initial_config[i])):
-                boxes.append(self.initial_config[i][j])
-
-        for index, configuration in enumerate(list(permutations(boxes))):
-            configuration = list(zip_longest(*[iter(configuration)] * self.width))
-            configuration = list(map(lambda x: list(x), configuration))
-            self.lookup[str(configuration)] = index
-            self.nodes.append(
-                Node(
-                    index, configuration, self.original_weights, self.nodes, self.lookup
-                )
-            )
-
-            if configuration == self.initial_config:
-                self.index_initial = index
-
-            if configuration == self.final_config:
-                self.index_final = index
-
+    def generate_source_target_nodes(self):
+        self.index_initial = len(self.nodes)
+        self.lookup[str(self.initial_config)] = self.index_initial
+        self.nodes.append(Node(self.initial_config))
         self.nodes[self.index_initial].distance = 0
+
+        self.index_final = len(self.nodes)
+        self.lookup[str(self.final_config)] = self.index_final
+        self.nodes.append(Node(self.final_config))
 
 
 class Node:
-    def __init__(self, index, config, original_weights, nodes, lookup, cost=0):
-        self.original_weights = original_weights
-        self.nodes = nodes
-        self.lookup = lookup
-        self.next_moves = []
-        self.index = index
+    def __init__(self, config):
         self.config = config
+        self.cost = 0
         self.distance = float("inf")
-        self.cost = cost
         self.pi = -1
+        self.next_moves = []
 
-    def generate_next_moves(self):
-        for next_config, next_cost in CONTAINER.Configuration(
-            self.original_weights
-        ).generate_configs(self.config):
-            next_index = self.lookup[str(next_config)]
-            self.nodes[next_index].cost = next_cost
+    def generate_next_moves(self, nodes, original_weights, lookup):
+        for next_config, next_cost in Configuration(original_weights).generate_configs(
+            self.config
+        ):
+            if str(next_config) not in lookup.keys():
+                next_index = len(nodes)
+                lookup[str(next_config)] = next_index
+                nodes.append(Node(next_config))
+            else:
+                next_index = lookup[str(next_config)]
+
+            nodes[next_index].cost = next_cost
             self.next_moves.append([next_index, next_cost])
 
         return self.next_moves
