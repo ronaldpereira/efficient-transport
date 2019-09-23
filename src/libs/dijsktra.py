@@ -16,8 +16,7 @@ class Dijsktra:
 
             # If the search reaches the final node,
             # stop the search
-            if u.config == self.g.nodes[self.g.index_final].config:
-                self.g.nodes[self.g.index_final].distance = u.distance
+            if u_index == self.g.index_final:
                 break
 
             neighbors = u.generate_next_moves(

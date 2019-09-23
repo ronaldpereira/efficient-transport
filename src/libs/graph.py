@@ -21,9 +21,16 @@ class Graph:
         self.nodes.append(Node(self.initial_config))
         self.nodes[self.index_initial].distance = 0
 
-        self.index_final = len(self.nodes)
-        self.lookup[str(self.final_config)] = self.index_final
-        self.nodes.append(Node(self.final_config))
+        # if initial configuration is not the final configuration
+        # insert it in a different node
+        if self.initial_config != self.final_config:
+            self.index_final = len(self.nodes)
+            self.lookup[str(self.final_config)] = self.index_final
+            self.nodes.append(Node(self.final_config))
+
+        else:
+            self.index_final = self.index_initial
+            self.lookup[str(self.final_config)] = self.index_initial
 
 
 class Node:
