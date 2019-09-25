@@ -8,7 +8,6 @@ class Dijsktra:
         self.heap.push(self.g.nodes[self.g.index_initial], self.g.index_initial)
 
     def execute(self):
-        visited_nodes = []
         while len(self.heap) > 0:
             u_index = self.heap.pop()
 
@@ -27,6 +26,10 @@ class Dijsktra:
                 if v.distance > u.distance + uv_cost:
                     v.distance = u.distance + uv_cost
                     v.pi = u
-                    if v_index not in visited_nodes:
+                    
+                    # Check if node[v_index] was already visited in O(1)
+                    # by seeing if the config is already inserted in the lookup
+                    try:
+                        self.g.lookup[self.g.nodes[v_index]]
+                    except KeyError:
                         self.heap.push(v, v_index)
-                        visited_nodes.append(v_index)
