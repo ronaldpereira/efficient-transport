@@ -11,5 +11,7 @@ int main()
 
     graph.GenerateConfigs(graph.initial_config);
 
+    std::cout << graph.FlatConfig(graph.initial_config) << std::endl;
+
     return 0;
 }

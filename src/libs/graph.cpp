@@ -85,4 +85,68 @@ void Graph::ReadInitialAndFinalConfig()
     }
 }
 
-// TODO: generate_source_target_nodes function, node lib and dijstra lib
+void Graph::GenerateSourceTargetNodes()
+{
+    index_initial = 0;
+    nodes.push_back(Node(initial_config));
+    lookup[FlatConfig(initial_config)] = index_initial;
+    nodes[index_initial].distance = 0;
+
+    // If initial configuration is not the final configuration
+    // insert it subsequent node
+    if (initial_config != final_config)
+    {
+        index_final = 1;
+        nodes.push_back(Node(final_config));
+        lookup[FlatConfig(final_config)] = index_final;
+    }
+    else
+    {
+        index_final = index_initial;
+        lookup[FlatConfig(final_config)] = index_initial;
+    }
+}
+
+int Graph::FlatConfig(std::vector<std::vector<int>> config)
+{
+    std::string flat_config = "";
+
+    for (int i = 0; i < height; i++)
+    {
+        for (int j = 0; j < width; j++)
+        {
+            flat_config += std::to_string(config[i][j]);
+        }
+    }
+
+    return std::stoi(flat_config);
+}
+
+std::vector<std::pair<int, int>> Graph::GenerateNextMoves(Node node)
+{
+    std::vector<std::pair<int, int>> next_moves;
+
+    for (auto config : GenerateConfigs(node.config))
+    {
+        std::vector<std::vector<int>> next_config = config.first;
+        int next_cost = config.second;
+
+        auto lookup_index = lookup.find(FlatConfig(next_config));
+        int next_index;
+        if (lookup_index == lookup.end())
+        {
+            next_index = lookup.size();
+            lookup[FlatConfig(next_config)] = next_index;
+            nodes.push_back(Node(next_config));
+        }
+        else
+        {
+            next_index = lookup[FlatConfig(next_config)];
+        }
+
+        nodes[next_index].cost = next_cost;
+        next_moves.push_back(std::make_pair(next_index, next_cost));
+    }
+
+    return next_moves;
+}
