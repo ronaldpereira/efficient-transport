@@ -1,5 +1,5 @@
 from libs.container import Container
-from libs.dijsktra import Dijsktra
+from libs.dijkstra import Dijkstra
 from libs.graph import Graph
 
 
@@ -8,7 +8,7 @@ def main():
 
     g = Graph(container)
 
-    dijkstra = Dijsktra(g)
+    dijkstra = Dijkstra(g)
     dijkstra.execute()
 
     # prints the minimum distance found

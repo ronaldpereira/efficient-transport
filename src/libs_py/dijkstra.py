@@ -1,7 +1,7 @@
 from libs.heap import Heap
 
 
-class Dijsktra:
+class Dijkstra:
     def __init__(self, g):
         self.g = g
         self.heap = Heap()
@@ -25,7 +25,7 @@ class Dijsktra:
                 v = self.g.nodes[v_index]
                 if v.distance > u.distance + uv_cost:
                     v.distance = u.distance + uv_cost
-                    v.pi = u
+                    v.pi = u # Don't use pi
                     
                     # Check if node[v_index] was already visited in O(1)
                     # by seeing if the config is already inserted in the lookup
