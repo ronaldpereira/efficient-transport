@@ -1,6 +1,3 @@
-from itertools import permutations, zip_longest
-from math import factorial
-
 from libs.container import Configuration
 
 

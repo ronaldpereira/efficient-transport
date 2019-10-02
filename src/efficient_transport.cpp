@@ -1,5 +1,5 @@
 #include <iostream>
-#include "libs/container.hpp"
+#include "libs/graph.hpp"
 
 int main()
 {
@@ -7,9 +7,9 @@ int main()
     std::ios_base::sync_with_stdio(0);
     std::cin.tie(0);
 
-    Container container;
+    Graph graph;
 
-    container.PrintVars();
+    graph.GenerateConfigs(graph.initial_config);
 
     return 0;
 }
