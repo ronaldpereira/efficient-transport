@@ -1,5 +1,4 @@
 .vscode
 data/test/
-output*
 __pycache__
 *.out
