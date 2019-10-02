@@ -15,8 +15,11 @@ with open("../data/saida_todos.txt", "r") as myoutfile, open(
 
     same = 0
     diff = 0
+    empty = 0
     for filename in myanswers.keys():
-        if myanswers[filename] == refanswers[filename]:
+        if len(myanswers[filename]) == 0:
+            empty += 1
+        elif myanswers[filename] == refanswers[filename]:
             same += 1
         else:
             diff += 1
@@ -24,3 +27,4 @@ with open("../data/saida_todos.txt", "r") as myoutfile, open(
     print("-- Results --")
     print("Same: {}".format(same))
     print("Diff: {}".format(diff))
+    print("Empty: {}".format(empty))
