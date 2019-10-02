@@ -1,5 +1,6 @@
 #include <iostream>
 #include "libs/graph.hpp"
+#include "libs/dijkstra.hpp"
 
 int main()
 {
@@ -8,10 +9,11 @@ int main()
     std::cin.tie(0);
 
     Graph graph;
+    Dijkstra dijkstra(&graph);
 
-    graph.GenerateConfigs(graph.initial_config);
+    dijkstra.Execute();
 
-    std::cout << graph.FlatConfig(graph.initial_config) << std::endl;
+    std::cout << graph.nodes[graph.index_final].distance << std::endl;
 
     return 0;
 }

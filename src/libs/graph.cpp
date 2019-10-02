@@ -12,6 +12,7 @@ Graph::Graph()
     }
 
     ReadInitialAndFinalConfig();
+    GenerateSourceTargetNodes();
 }
 
 std::vector<std::pair<std::vector<std::vector<int>>, int>> Graph::GenerateConfigs(std::vector<std::vector<int>> base_config)

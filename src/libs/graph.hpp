@@ -12,6 +12,7 @@ class Graph
 private:
     void InsertConfigToLookup(std::vector<std::vector<int>>);
     bool CheckConfigIsInsertedInLookup(std::vector<std::vector<int>>);
+    int FlatConfig(std::vector<std::vector<int>>);
 
 public:
     int height, width;
@@ -27,7 +28,6 @@ public:
     std::pair<std::vector<std::vector<int>>, int> MoveUp(std::vector<std::vector<int>> base_config, int box_x, int box_y);
     std::pair<std::vector<std::vector<int>>, int> MoveLeft(std::vector<std::vector<int>> base_config, int box_x, int box_y);
     void GenerateSourceTargetNodes();
-    int FlatConfig(std::vector<std::vector<int>>);
     std::vector<std::pair<int, int>> GenerateNextMoves(Node);
 };
 
