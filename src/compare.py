@@ -8,10 +8,11 @@ with open("../data/saida_todos_to.txt", "r") as myouttofile, open(
         myanswers[filename] = answer
 
     mytoanswers = {}
-    for line in myoutfile:
+    for line in myouttofile:
         filename = line.split(" ")[0].split("/")[-1]
         answer = line.split(" ")[1]
         mytoanswers[filename] = answer
+    print(mytoanswers)
 
     refanswers = {}
     for line in refoutputfile:
@@ -23,9 +24,7 @@ with open("../data/saida_todos_to.txt", "r") as myouttofile, open(
     diff = 0
     empty = 0
     for filename in myanswers.keys():
-        if len(myanswers[filename]) == 0:
-            empty += 1
-        elif myanswers[filename] == refanswers[filename]:
+        if myanswers[filename] == refanswers[filename]:
             same += 1
         else:
             diff += 1
@@ -39,7 +38,7 @@ with open("../data/saida_todos_to.txt", "r") as myouttofile, open(
     diff = 0
     empty = 0
     for filename in mytoanswers.keys():
-        if len(mytoanswers[filename]) == 0:
+        if mytoanswers[filename] == "\n":
             empty += 1
         elif mytoanswers[filename] == refanswers[filename]:
             same += 1

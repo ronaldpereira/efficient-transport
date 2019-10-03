@@ -10,8 +10,10 @@
 ../data/inputs/input_1006.txt 173
 ../data/inputs/input_1007.txt 0
 ../data/inputs/input_1008.txt 434
-../data/inputs/input_1009.txt ../data/inputs/input_101.txt 484
-../data/inputs/input_1010.txt ../data/inputs/input_1011.txt 525
+../data/inputs/input_1009.txt 
+../data/inputs/input_101.txt 484
+../data/inputs/input_1010.txt 
+../data/inputs/input_1011.txt 525
 ../data/inputs/input_1012.txt 0
 ../data/inputs/input_1013.txt 501
 ../data/inputs/input_1014.txt 0
@@ -36,7 +38,8 @@
 ../data/inputs/input_1031.txt 92
 ../data/inputs/input_1032.txt 364
 ../data/inputs/input_1033.txt 0
-../data/inputs/input_1034.txt ../data/inputs/input_1035.txt 270
+../data/inputs/input_1034.txt 
+../data/inputs/input_1035.txt 270
 ../data/inputs/input_1036.txt 90
 ../data/inputs/input_1037.txt 28
 ../data/inputs/input_1038.txt 0
@@ -67,10 +70,12 @@
 ../data/inputs/input_1060.txt 0
 ../data/inputs/input_1061.txt 170
 ../data/inputs/input_1062.txt 651
-../data/inputs/input_1063.txt ../data/inputs/input_1064.txt 93
+../data/inputs/input_1063.txt 
+../data/inputs/input_1064.txt 93
 ../data/inputs/input_1065.txt 710
 ../data/inputs/input_1066.txt 0
-../data/inputs/input_1067.txt ../data/inputs/input_1068.txt 0
+../data/inputs/input_1067.txt 
+../data/inputs/input_1068.txt 0
 ../data/inputs/input_1069.txt 0
 ../data/inputs/input_107.txt 86
 ../data/inputs/input_1070.txt 452
@@ -79,7 +84,8 @@
 ../data/inputs/input_1073.txt 472
 ../data/inputs/input_1074.txt 0
 ../data/inputs/input_1075.txt 232
-../data/inputs/input_1076.txt ../data/inputs/input_1077.txt 0
+../data/inputs/input_1076.txt 
+../data/inputs/input_1077.txt 0
 ../data/inputs/input_1078.txt 720
 ../data/inputs/input_1079.txt 417
 ../data/inputs/input_108.txt 0
@@ -93,17 +99,21 @@
 ../data/inputs/input_1087.txt 531
 ../data/inputs/input_1088.txt 467
 ../data/inputs/input_1089.txt 124
-../data/inputs/input_109.txt ../data/inputs/input_1090.txt 444
+../data/inputs/input_109.txt 
+../data/inputs/input_1090.txt 444
 ../data/inputs/input_1091.txt 440
 ../data/inputs/input_1092.txt 374
 ../data/inputs/input_1093.txt 278
 ../data/inputs/input_1094.txt 236
 ../data/inputs/input_1095.txt 71
 ../data/inputs/input_1096.txt 0
-../data/inputs/input_1097.txt ../data/inputs/input_1098.txt 122
-../data/inputs/input_1099.txt ../data/inputs/input_11.txt 232
+../data/inputs/input_1097.txt 
+../data/inputs/input_1098.txt 122
+../data/inputs/input_1099.txt 
+../data/inputs/input_11.txt 232
 ../data/inputs/input_110.txt 744
-../data/inputs/input_1100.txt ../data/inputs/input_1101.txt 413
+../data/inputs/input_1100.txt 
+../data/inputs/input_1101.txt 413
 ../data/inputs/input_1102.txt 551
 ../data/inputs/input_1103.txt 87
 ../data/inputs/input_1104.txt 152
@@ -112,7 +122,8 @@
 ../data/inputs/input_1107.txt 83
 ../data/inputs/input_1108.txt 0
 ../data/inputs/input_1109.txt 682
-../data/inputs/input_111.txt ../data/inputs/input_1110.txt 117
+../data/inputs/input_111.txt 
+../data/inputs/input_1110.txt 117
 ../data/inputs/input_1111.txt 131
 ../data/inputs/input_1112.txt 0
 ../data/inputs/input_1113.txt 75
@@ -122,7 +133,8 @@
 ../data/inputs/input_1117.txt 378
 ../data/inputs/input_1118.txt 266
 ../data/inputs/input_1119.txt 0
-../data/inputs/input_112.txt ../data/inputs/input_1120.txt 0
+../data/inputs/input_112.txt 
+../data/inputs/input_1120.txt 0
 ../data/inputs/input_1121.txt 0
 ../data/inputs/input_1122.txt 452
 ../data/inputs/input_1123.txt 162
@@ -154,11 +166,13 @@
 ../data/inputs/input_1147.txt 0
 ../data/inputs/input_1148.txt 391
 ../data/inputs/input_1149.txt 26
-../data/inputs/input_115.txt ../data/inputs/input_1150.txt 76
+../data/inputs/input_115.txt 
+../data/inputs/input_1150.txt 76
 ../data/inputs/input_1151.txt 85
 ../data/inputs/input_1152.txt 734
 ../data/inputs/input_1153.txt 345
-../data/inputs/input_1154.txt ../data/inputs/input_1155.txt 541
+../data/inputs/input_1154.txt 
+../data/inputs/input_1155.txt 541
 ../data/inputs/input_1156.txt 540
 ../data/inputs/input_1157.txt 14
 ../data/inputs/input_1158.txt 0
@@ -169,21 +183,25 @@
 ../data/inputs/input_1162.txt 628
 ../data/inputs/input_1163.txt 166
 ../data/inputs/input_1164.txt 0
-../data/inputs/input_1165.txt ../data/inputs/input_1166.txt 0
+../data/inputs/input_1165.txt 
+../data/inputs/input_1166.txt 0
 ../data/inputs/input_1167.txt 707
 ../data/inputs/input_1168.txt 0
 ../data/inputs/input_1169.txt 99
 ../data/inputs/input_117.txt 166
 ../data/inputs/input_1170.txt 138
 ../data/inputs/input_1171.txt 264
-../data/inputs/input_1172.txt ../data/inputs/input_1173.txt 53
-../data/inputs/input_1174.txt ../data/inputs/input_1175.txt 334
+../data/inputs/input_1172.txt 
+../data/inputs/input_1173.txt 53
+../data/inputs/input_1174.txt 
+../data/inputs/input_1175.txt 334
 ../data/inputs/input_1176.txt 0
 ../data/inputs/input_1177.txt 237
 ../data/inputs/input_1178.txt 104
 ../data/inputs/input_1179.txt 404
 ../data/inputs/input_118.txt 0
-../data/inputs/input_1180.txt ../data/inputs/input_1181.txt 0
+../data/inputs/input_1180.txt 
+../data/inputs/input_1181.txt 0
 ../data/inputs/input_1182.txt 0
 ../data/inputs/input_1183.txt 247
 ../data/inputs/input_1184.txt 0
@@ -194,7 +212,8 @@
 ../data/inputs/input_1189.txt 75
 ../data/inputs/input_119.txt 73
 ../data/inputs/input_1190.txt 380
-../data/inputs/input_1191.txt ../data/inputs/input_1192.txt 568
+../data/inputs/input_1191.txt 
+../data/inputs/input_1192.txt 568
 ../data/inputs/input_1193.txt 72
 ../data/inputs/input_1194.txt 53
 ../data/inputs/input_1195.txt 619
@@ -221,15 +240,18 @@
 ../data/inputs/input_1213.txt 966
 ../data/inputs/input_1214.txt 0
 ../data/inputs/input_1215.txt 276
-../data/inputs/input_1216.txt ../data/inputs/input_1217.txt 0
+../data/inputs/input_1216.txt 
+../data/inputs/input_1217.txt 0
 ../data/inputs/input_1218.txt 140
 ../data/inputs/input_1219.txt 0
 ../data/inputs/input_122.txt 286
 ../data/inputs/input_1220.txt 177
 ../data/inputs/input_1221.txt 0
 ../data/inputs/input_1222.txt 272
-../data/inputs/input_1223.txt ../data/inputs/input_1224.txt 314
-../data/inputs/input_1225.txt ../data/inputs/input_1226.txt 284
+../data/inputs/input_1223.txt 
+../data/inputs/input_1224.txt 314
+../data/inputs/input_1225.txt 
+../data/inputs/input_1226.txt 284
 ../data/inputs/input_1227.txt 199
 ../data/inputs/input_1228.txt 0
 ../data/inputs/input_1229.txt 485
@@ -249,7 +271,8 @@
 ../data/inputs/input_1241.txt 0
 ../data/inputs/input_1242.txt 105
 ../data/inputs/input_1243.txt 536
-../data/inputs/input_1244.txt ../data/inputs/input_1245.txt 15
+../data/inputs/input_1244.txt 
+../data/inputs/input_1245.txt 15
 ../data/inputs/input_1246.txt 57
 ../data/inputs/input_1247.txt 0
 ../data/inputs/input_1248.txt 189
@@ -279,24 +302,28 @@
 ../data/inputs/input_127.txt 0
 ../data/inputs/input_1270.txt 0
 ../data/inputs/input_1271.txt 0
-../data/inputs/input_1272.txt ../data/inputs/input_1273.txt 0
+../data/inputs/input_1272.txt 
+../data/inputs/input_1273.txt 0
 ../data/inputs/input_1274.txt 48
 ../data/inputs/input_1275.txt 0
 ../data/inputs/input_1276.txt 533
 ../data/inputs/input_1277.txt 65
 ../data/inputs/input_1278.txt 314
 ../data/inputs/input_1279.txt 140
-../data/inputs/input_128.txt ../data/inputs/input_1280.txt 697
+../data/inputs/input_128.txt 
+../data/inputs/input_1280.txt 697
 ../data/inputs/input_1281.txt 121
 ../data/inputs/input_1282.txt 0
-../data/inputs/input_1283.txt ../data/inputs/input_1284.txt 591
+../data/inputs/input_1283.txt 
+../data/inputs/input_1284.txt 591
 ../data/inputs/input_1285.txt 0
 ../data/inputs/input_1286.txt 282
 ../data/inputs/input_1287.txt 140
 ../data/inputs/input_1288.txt 256
 ../data/inputs/input_1289.txt 340
 ../data/inputs/input_129.txt 250
-../data/inputs/input_1290.txt ../data/inputs/input_1291.txt 112
+../data/inputs/input_1290.txt 
+../data/inputs/input_1291.txt 112
 ../data/inputs/input_1292.txt 0
 ../data/inputs/input_1293.txt 340
 ../data/inputs/input_1294.txt 262
@@ -321,11 +348,14 @@
 ../data/inputs/input_1310.txt 154
 ../data/inputs/input_1311.txt 84
 ../data/inputs/input_1312.txt 206
-../data/inputs/input_1313.txt ../data/inputs/input_1314.txt ../data/inputs/input_1315.txt 281
+../data/inputs/input_1313.txt 
+../data/inputs/input_1314.txt 
+../data/inputs/input_1315.txt 281
 ../data/inputs/input_1316.txt 0
 ../data/inputs/input_1317.txt 107
 ../data/inputs/input_1318.txt 0
-../data/inputs/input_1319.txt ../data/inputs/input_132.txt 0
+../data/inputs/input_1319.txt 
+../data/inputs/input_132.txt 0
 ../data/inputs/input_1320.txt 77
 ../data/inputs/input_1321.txt 0
 ../data/inputs/input_1322.txt 281
@@ -334,7 +364,8 @@
 ../data/inputs/input_1325.txt 132
 ../data/inputs/input_1326.txt 171
 ../data/inputs/input_1327.txt 549
-../data/inputs/input_1328.txt ../data/inputs/input_1329.txt 132
+../data/inputs/input_1328.txt 
+../data/inputs/input_1329.txt 132
 ../data/inputs/input_133.txt 79
 ../data/inputs/input_1330.txt 608
 ../data/inputs/input_1331.txt 0
@@ -351,11 +382,13 @@
 ../data/inputs/input_1341.txt 450
 ../data/inputs/input_1342.txt 75
 ../data/inputs/input_1343.txt 298
-../data/inputs/input_1344.txt ../data/inputs/input_1345.txt 394
+../data/inputs/input_1344.txt 
+../data/inputs/input_1345.txt 394
 ../data/inputs/input_1346.txt 0
 ../data/inputs/input_1347.txt 0
 ../data/inputs/input_1348.txt 314
-../data/inputs/input_1349.txt ../data/inputs/input_135.txt 102
+../data/inputs/input_1349.txt 
+../data/inputs/input_135.txt 102
 ../data/inputs/input_1350.txt 229
 ../data/inputs/input_1351.txt 147
 ../data/inputs/input_1352.txt 79
@@ -386,20 +419,26 @@
 ../data/inputs/input_1375.txt 94
 ../data/inputs/input_1376.txt 0
 ../data/inputs/input_1377.txt 78
-../data/inputs/input_1378.txt ../data/inputs/input_1379.txt 821
+../data/inputs/input_1378.txt 
+../data/inputs/input_1379.txt 821
 ../data/inputs/input_138.txt 0
-../data/inputs/input_1380.txt ../data/inputs/input_1381.txt ../data/inputs/input_1382.txt 202
+../data/inputs/input_1380.txt 
+../data/inputs/input_1381.txt 
+../data/inputs/input_1382.txt 202
 ../data/inputs/input_1383.txt 58
 ../data/inputs/input_1384.txt 105
 ../data/inputs/input_1385.txt 0
 ../data/inputs/input_1386.txt 0
 ../data/inputs/input_1387.txt 0
-../data/inputs/input_1388.txt ../data/inputs/input_1389.txt ../data/inputs/input_139.txt 262
+../data/inputs/input_1388.txt 
+../data/inputs/input_1389.txt 
+../data/inputs/input_139.txt 262
 ../data/inputs/input_1390.txt 114
 ../data/inputs/input_1391.txt 0
 ../data/inputs/input_1392.txt 40
 ../data/inputs/input_1393.txt 110
-../data/inputs/input_1394.txt ../data/inputs/input_1395.txt 0
+../data/inputs/input_1394.txt 
+../data/inputs/input_1395.txt 0
 ../data/inputs/input_1396.txt 709
 ../data/inputs/input_1397.txt 0
 ../data/inputs/input_1398.txt 0
@@ -407,12 +446,15 @@
 ../data/inputs/input_14.txt 223
 ../data/inputs/input_140.txt 123
 ../data/inputs/input_1400.txt 0
-../data/inputs/input_1401.txt ../data/inputs/input_1402.txt 0
+../data/inputs/input_1401.txt 
+../data/inputs/input_1402.txt 0
 ../data/inputs/input_1403.txt 0
 ../data/inputs/input_1404.txt 26
 ../data/inputs/input_1405.txt 388
-../data/inputs/input_1406.txt ../data/inputs/input_1407.txt 0
-../data/inputs/input_1408.txt ../data/inputs/input_1409.txt 110
+../data/inputs/input_1406.txt 
+../data/inputs/input_1407.txt 0
+../data/inputs/input_1408.txt 
+../data/inputs/input_1409.txt 110
 ../data/inputs/input_141.txt 70
 ../data/inputs/input_1410.txt 75
 ../data/inputs/input_1411.txt 0
@@ -435,7 +477,8 @@
 ../data/inputs/input_1427.txt 0
 ../data/inputs/input_1428.txt 0
 ../data/inputs/input_1429.txt 446
-../data/inputs/input_143.txt ../data/inputs/input_1430.txt 0
+../data/inputs/input_143.txt 
+../data/inputs/input_1430.txt 0
 ../data/inputs/input_1431.txt 112
 ../data/inputs/input_1432.txt 0
 ../data/inputs/input_1433.txt 179
@@ -444,7 +487,8 @@
 ../data/inputs/input_1436.txt 36
 ../data/inputs/input_1437.txt 343
 ../data/inputs/input_1438.txt 0
-../data/inputs/input_1439.txt ../data/inputs/input_144.txt 348
+../data/inputs/input_1439.txt 
+../data/inputs/input_144.txt 348
 ../data/inputs/input_1440.txt 0
 ../data/inputs/input_1441.txt 516
 ../data/inputs/input_1442.txt 303
@@ -463,17 +507,20 @@
 ../data/inputs/input_1454.txt 294
 ../data/inputs/input_1455.txt 75
 ../data/inputs/input_1456.txt 733
-../data/inputs/input_1457.txt ../data/inputs/input_1458.txt 366
+../data/inputs/input_1457.txt 
+../data/inputs/input_1458.txt 366
 ../data/inputs/input_1459.txt 146
 ../data/inputs/input_146.txt 0
 ../data/inputs/input_1460.txt 655
 ../data/inputs/input_1461.txt 0
 ../data/inputs/input_1462.txt 83
 ../data/inputs/input_1463.txt 298
-../data/inputs/input_1464.txt ../data/inputs/input_1465.txt 315
+../data/inputs/input_1464.txt 
+../data/inputs/input_1465.txt 315
 ../data/inputs/input_1466.txt 0
 ../data/inputs/input_1467.txt 125
-../data/inputs/input_1468.txt ../data/inputs/input_1469.txt 140
+../data/inputs/input_1468.txt 
+../data/inputs/input_1469.txt 140
 ../data/inputs/input_147.txt 327
 ../data/inputs/input_1470.txt 203
 ../data/inputs/input_1471.txt 55
@@ -485,7 +532,8 @@
 ../data/inputs/input_1477.txt 388
 ../data/inputs/input_1478.txt 0
 ../data/inputs/input_1479.txt 0
-../data/inputs/input_148.txt ../data/inputs/input_1480.txt 480
+../data/inputs/input_148.txt 
+../data/inputs/input_1480.txt 480
 ../data/inputs/input_1481.txt 426
 ../data/inputs/input_1482.txt 0
 ../data/inputs/input_1483.txt 282
@@ -495,7 +543,8 @@
 ../data/inputs/input_1487.txt 22
 ../data/inputs/input_1488.txt 0
 ../data/inputs/input_1489.txt 497
-../data/inputs/input_149.txt ../data/inputs/input_1490.txt 123
+../data/inputs/input_149.txt 
+../data/inputs/input_1490.txt 123
 ../data/inputs/input_1491.txt 622
 ../data/inputs/input_1492.txt 101
 ../data/inputs/input_1493.txt 480
@@ -516,21 +565,27 @@
 ../data/inputs/input_1506.txt 790
 ../data/inputs/input_1507.txt 0
 ../data/inputs/input_1508.txt 119
-../data/inputs/input_1509.txt ../data/inputs/input_151.txt 863
+../data/inputs/input_1509.txt 
+../data/inputs/input_151.txt 863
 ../data/inputs/input_1510.txt 871
 ../data/inputs/input_1511.txt 0
 ../data/inputs/input_1512.txt 0
 ../data/inputs/input_1513.txt 0
 ../data/inputs/input_1514.txt 79
-../data/inputs/input_1515.txt ../data/inputs/input_1516.txt 0
+../data/inputs/input_1515.txt 
+../data/inputs/input_1516.txt 0
 ../data/inputs/input_1517.txt 135
 ../data/inputs/input_1518.txt 178
 ../data/inputs/input_1519.txt 407
-../data/inputs/input_152.txt ../data/inputs/input_1520.txt ../data/inputs/input_1521.txt 269
+../data/inputs/input_152.txt 
+../data/inputs/input_1520.txt 
+../data/inputs/input_1521.txt 269
 ../data/inputs/input_1522.txt 606
 ../data/inputs/input_1523.txt 406
-../data/inputs/input_1524.txt ../data/inputs/input_1525.txt 137
-../data/inputs/input_1526.txt ../data/inputs/input_1527.txt 344
+../data/inputs/input_1524.txt 
+../data/inputs/input_1525.txt 137
+../data/inputs/input_1526.txt 
+../data/inputs/input_1527.txt 344
 ../data/inputs/input_1528.txt 361
 ../data/inputs/input_1529.txt 178
 ../data/inputs/input_153.txt 304
@@ -552,7 +607,8 @@
 ../data/inputs/input_1544.txt 76
 ../data/inputs/input_1545.txt 0
 ../data/inputs/input_1546.txt 0
-../data/inputs/input_1547.txt ../data/inputs/input_1548.txt 756
+../data/inputs/input_1547.txt 
+../data/inputs/input_1548.txt 756
 ../data/inputs/input_1549.txt 314
 ../data/inputs/input_155.txt 0
 ../data/inputs/input_1550.txt 428
@@ -564,7 +620,8 @@
 ../data/inputs/input_1556.txt 73
 ../data/inputs/input_1557.txt 167
 ../data/inputs/input_1558.txt 77
-../data/inputs/input_1559.txt ../data/inputs/input_156.txt 88
+../data/inputs/input_1559.txt 
+../data/inputs/input_156.txt 88
 ../data/inputs/input_1560.txt 88
 ../data/inputs/input_1561.txt 291
 ../data/inputs/input_1562.txt 672
@@ -581,23 +638,28 @@
 ../data/inputs/input_1572.txt 386
 ../data/inputs/input_1573.txt 0
 ../data/inputs/input_1574.txt 0
-../data/inputs/input_1575.txt ../data/inputs/input_1576.txt 0
+../data/inputs/input_1575.txt 
+../data/inputs/input_1576.txt 0
 ../data/inputs/input_1577.txt 0
 ../data/inputs/input_1578.txt 55
 ../data/inputs/input_1579.txt 50
 ../data/inputs/input_158.txt 95
 ../data/inputs/input_1580.txt 69
 ../data/inputs/input_1581.txt 261
-../data/inputs/input_1582.txt ../data/inputs/input_1583.txt 404
+../data/inputs/input_1582.txt 
+../data/inputs/input_1583.txt 404
 ../data/inputs/input_1584.txt 167
-../data/inputs/input_1585.txt ../data/inputs/input_1586.txt 0
+../data/inputs/input_1585.txt 
+../data/inputs/input_1586.txt 0
 ../data/inputs/input_1587.txt 626
 ../data/inputs/input_1588.txt 262
 ../data/inputs/input_1589.txt 211
 ../data/inputs/input_159.txt 0
 ../data/inputs/input_1590.txt 97
 ../data/inputs/input_1591.txt 0
-../data/inputs/input_1592.txt ../data/inputs/input_1593.txt ../data/inputs/input_1594.txt 152
+../data/inputs/input_1592.txt 
+../data/inputs/input_1593.txt 
+../data/inputs/input_1594.txt 152
 ../data/inputs/input_1595.txt 0
 ../data/inputs/input_1596.txt 120
 ../data/inputs/input_1597.txt 0
@@ -647,7 +709,8 @@
 ../data/inputs/input_1636.txt 53
 ../data/inputs/input_1637.txt 380
 ../data/inputs/input_1638.txt 346
-../data/inputs/input_1639.txt ../data/inputs/input_164.txt 201
+../data/inputs/input_1639.txt 
+../data/inputs/input_164.txt 201
 ../data/inputs/input_1640.txt 205
 ../data/inputs/input_1641.txt 0
 ../data/inputs/input_1642.txt 0
@@ -669,7 +732,8 @@
 ../data/inputs/input_1657.txt 0
 ../data/inputs/input_1658.txt 442
 ../data/inputs/input_1659.txt 0
-../data/inputs/input_166.txt ../data/inputs/input_1660.txt 127
+../data/inputs/input_166.txt 
+../data/inputs/input_1660.txt 127
 ../data/inputs/input_1661.txt 135
 ../data/inputs/input_1662.txt 0
 ../data/inputs/input_1663.txt 17
@@ -679,7 +743,8 @@
 ../data/inputs/input_1667.txt 0
 ../data/inputs/input_1668.txt 0
 ../data/inputs/input_1669.txt 0
-../data/inputs/input_167.txt ../data/inputs/input_1670.txt 144
+../data/inputs/input_167.txt 
+../data/inputs/input_1670.txt 144
 ../data/inputs/input_1671.txt 94
 ../data/inputs/input_1672.txt 533
 ../data/inputs/input_1673.txt 476
@@ -703,15 +768,18 @@
 ../data/inputs/input_169.txt 201
 ../data/inputs/input_1690.txt 0
 ../data/inputs/input_1691.txt 164
-../data/inputs/input_1692.txt ../data/inputs/input_1693.txt 0
+../data/inputs/input_1692.txt 
+../data/inputs/input_1693.txt 0
 ../data/inputs/input_1694.txt 256
 ../data/inputs/input_1695.txt 240
 ../data/inputs/input_1696.txt 0
 ../data/inputs/input_1697.txt 147
-../data/inputs/input_1698.txt ../data/inputs/input_1699.txt 0
+../data/inputs/input_1698.txt 
+../data/inputs/input_1699.txt 0
 ../data/inputs/input_17.txt 445
 ../data/inputs/input_170.txt 360
-../data/inputs/input_1700.txt ../data/inputs/input_1701.txt 361
+../data/inputs/input_1700.txt 
+../data/inputs/input_1701.txt 361
 ../data/inputs/input_1702.txt 432
 ../data/inputs/input_1703.txt 0
 ../data/inputs/input_1704.txt 170
@@ -722,7 +790,8 @@
 ../data/inputs/input_1709.txt 175
 ../data/inputs/input_171.txt 80
 ../data/inputs/input_1710.txt 0
-../data/inputs/input_1711.txt ../data/inputs/input_1712.txt 402
+../data/inputs/input_1711.txt 
+../data/inputs/input_1712.txt 402
 ../data/inputs/input_1713.txt 41
 ../data/inputs/input_1714.txt 0
 ../data/inputs/input_1715.txt 551
@@ -732,12 +801,14 @@
 ../data/inputs/input_1719.txt 320
 ../data/inputs/input_172.txt 0
 ../data/inputs/input_1720.txt 0
-../data/inputs/input_1721.txt ../data/inputs/input_1722.txt 742
+../data/inputs/input_1721.txt 
+../data/inputs/input_1722.txt 742
 ../data/inputs/input_1723.txt 46
 ../data/inputs/input_1724.txt 177
 ../data/inputs/input_1725.txt 51
 ../data/inputs/input_1726.txt 203
-../data/inputs/input_1727.txt ../data/inputs/input_1728.txt 571
+../data/inputs/input_1727.txt 
+../data/inputs/input_1728.txt 571
 ../data/inputs/input_1729.txt 0
 ../data/inputs/input_173.txt 36
 ../data/inputs/input_1730.txt 490
@@ -752,15 +823,20 @@
 ../data/inputs/input_1739.txt 302
 ../data/inputs/input_174.txt 374
 ../data/inputs/input_1740.txt 0
-../data/inputs/input_1741.txt ../data/inputs/input_1742.txt 0
+../data/inputs/input_1741.txt 
+../data/inputs/input_1742.txt 0
 ../data/inputs/input_1743.txt 0
 ../data/inputs/input_1744.txt 427
-../data/inputs/input_1745.txt ../data/inputs/input_1746.txt ../data/inputs/input_1747.txt 357
+../data/inputs/input_1745.txt 
+../data/inputs/input_1746.txt 
+../data/inputs/input_1747.txt 357
 ../data/inputs/input_1748.txt 678
 ../data/inputs/input_1749.txt 137
 ../data/inputs/input_175.txt 118
 ../data/inputs/input_1750.txt 68
-../data/inputs/input_1751.txt ../data/inputs/input_1752.txt ../data/inputs/input_1753.txt 238
+../data/inputs/input_1751.txt 
+../data/inputs/input_1752.txt 
+../data/inputs/input_1753.txt 238
 ../data/inputs/input_1754.txt 212
 ../data/inputs/input_1755.txt 0
 ../data/inputs/input_1756.txt 0
@@ -798,20 +874,26 @@
 ../data/inputs/input_1785.txt 0
 ../data/inputs/input_1786.txt 0
 ../data/inputs/input_1787.txt 386
-../data/inputs/input_1788.txt ../data/inputs/input_1789.txt ../data/inputs/input_179.txt 0
+../data/inputs/input_1788.txt 
+../data/inputs/input_1789.txt 
+../data/inputs/input_179.txt 0
 ../data/inputs/input_1790.txt 165
 ../data/inputs/input_1791.txt 0
 ../data/inputs/input_1792.txt 590
-../data/inputs/input_1793.txt ../data/inputs/input_1794.txt 0
+../data/inputs/input_1793.txt 
+../data/inputs/input_1794.txt 0
 ../data/inputs/input_1795.txt 705
 ../data/inputs/input_1796.txt 500
 ../data/inputs/input_1797.txt 426
-../data/inputs/input_1798.txt ../data/inputs/input_1799.txt 0
+../data/inputs/input_1798.txt 
+../data/inputs/input_1799.txt 0
 ../data/inputs/input_18.txt 305
-../data/inputs/input_180.txt ../data/inputs/input_1800.txt 79
+../data/inputs/input_180.txt 
+../data/inputs/input_1800.txt 79
 ../data/inputs/input_1801.txt 231
 ../data/inputs/input_1802.txt 59
-../data/inputs/input_1803.txt ../data/inputs/input_1804.txt 349
+../data/inputs/input_1803.txt 
+../data/inputs/input_1804.txt 349
 ../data/inputs/input_1805.txt 80
 ../data/inputs/input_1806.txt 105
 ../data/inputs/input_1807.txt 216
@@ -834,11 +916,13 @@
 ../data/inputs/input_1822.txt 0
 ../data/inputs/input_1823.txt 462
 ../data/inputs/input_1824.txt 0
-../data/inputs/input_1825.txt ../data/inputs/input_1826.txt 121
+../data/inputs/input_1825.txt 
+../data/inputs/input_1826.txt 121
 ../data/inputs/input_1827.txt 79
 ../data/inputs/input_1828.txt 210
 ../data/inputs/input_1829.txt 92
-../data/inputs/input_183.txt ../data/inputs/input_1830.txt 0
+../data/inputs/input_183.txt 
+../data/inputs/input_1830.txt 0
 ../data/inputs/input_1831.txt 395
 ../data/inputs/input_1832.txt 0
 ../data/inputs/input_1833.txt 235
@@ -856,7 +940,8 @@
 ../data/inputs/input_1844.txt 417
 ../data/inputs/input_1845.txt 103
 ../data/inputs/input_1846.txt 101
-../data/inputs/input_1847.txt ../data/inputs/input_1848.txt 0
+../data/inputs/input_1847.txt 
+../data/inputs/input_1848.txt 0
 ../data/inputs/input_1849.txt 414
 ../data/inputs/input_185.txt 477
 ../data/inputs/input_1850.txt 150
@@ -874,12 +959,14 @@
 ../data/inputs/input_1861.txt 82
 ../data/inputs/input_1862.txt 0
 ../data/inputs/input_1863.txt 388
-../data/inputs/input_1864.txt ../data/inputs/input_1865.txt 0
+../data/inputs/input_1864.txt 
+../data/inputs/input_1865.txt 0
 ../data/inputs/input_1866.txt 92
 ../data/inputs/input_1867.txt 288
 ../data/inputs/input_1868.txt 0
 ../data/inputs/input_1869.txt 434
-../data/inputs/input_187.txt ../data/inputs/input_1870.txt 238
+../data/inputs/input_187.txt 
+../data/inputs/input_1870.txt 238
 ../data/inputs/input_1871.txt 503
 ../data/inputs/input_1872.txt 413
 ../data/inputs/input_1873.txt 119
@@ -891,8 +978,11 @@
 ../data/inputs/input_1879.txt 52
 ../data/inputs/input_188.txt 0
 ../data/inputs/input_1880.txt 549
-../data/inputs/input_1881.txt ../data/inputs/input_1882.txt ../data/inputs/input_1883.txt 332
-../data/inputs/input_1884.txt ../data/inputs/input_1885.txt 179
+../data/inputs/input_1881.txt 
+../data/inputs/input_1882.txt 
+../data/inputs/input_1883.txt 332
+../data/inputs/input_1884.txt 
+../data/inputs/input_1885.txt 179
 ../data/inputs/input_1886.txt 0
 ../data/inputs/input_1887.txt 249
 ../data/inputs/input_1888.txt 0
@@ -920,7 +1010,8 @@
 ../data/inputs/input_1907.txt 88
 ../data/inputs/input_1908.txt 374
 ../data/inputs/input_1909.txt 306
-../data/inputs/input_191.txt ../data/inputs/input_1910.txt 693
+../data/inputs/input_191.txt 
+../data/inputs/input_1910.txt 693
 ../data/inputs/input_1911.txt 251
 ../data/inputs/input_1912.txt 646
 ../data/inputs/input_1913.txt 0
@@ -974,13 +1065,16 @@
 ../data/inputs/input_1957.txt 132
 ../data/inputs/input_1958.txt 60
 ../data/inputs/input_1959.txt 0
-../data/inputs/input_196.txt ../data/inputs/input_1960.txt ../data/inputs/input_1961.txt 74
+../data/inputs/input_196.txt 
+../data/inputs/input_1960.txt 
+../data/inputs/input_1961.txt 74
 ../data/inputs/input_1962.txt 117
 ../data/inputs/input_1963.txt 90
 ../data/inputs/input_1964.txt 0
 ../data/inputs/input_1965.txt 492
 ../data/inputs/input_1966.txt 0
-../data/inputs/input_1967.txt ../data/inputs/input_1968.txt 87
+../data/inputs/input_1967.txt 
+../data/inputs/input_1968.txt 87
 ../data/inputs/input_1969.txt 0
 ../data/inputs/input_197.txt 0
 ../data/inputs/input_1970.txt 164
@@ -999,7 +1093,8 @@
 ../data/inputs/input_1982.txt 0
 ../data/inputs/input_1983.txt 0
 ../data/inputs/input_1984.txt 0
-../data/inputs/input_1985.txt ../data/inputs/input_1986.txt 0
+../data/inputs/input_1985.txt 
+../data/inputs/input_1986.txt 0
 ../data/inputs/input_1987.txt 231
 ../data/inputs/input_1988.txt 317
 ../data/inputs/input_1989.txt 456
@@ -1027,7 +1122,8 @@
 ../data/inputs/input_2007.txt 197
 ../data/inputs/input_2008.txt 849
 ../data/inputs/input_2009.txt 0
-../data/inputs/input_201.txt ../data/inputs/input_2010.txt 0
+../data/inputs/input_201.txt 
+../data/inputs/input_2010.txt 0
 ../data/inputs/input_2011.txt 521
 ../data/inputs/input_2012.txt 0
 ../data/inputs/input_2013.txt 292
@@ -1035,13 +1131,16 @@
 ../data/inputs/input_2015.txt 247
 ../data/inputs/input_2016.txt 0
 ../data/inputs/input_2017.txt 54
-../data/inputs/input_2018.txt ../data/inputs/input_2019.txt 0
+../data/inputs/input_2018.txt 
+../data/inputs/input_2019.txt 0
 ../data/inputs/input_202.txt 0
 ../data/inputs/input_2020.txt 768
 ../data/inputs/input_2021.txt 467
 ../data/inputs/input_2022.txt 485
-../data/inputs/input_2023.txt ../data/inputs/input_2024.txt 936
-../data/inputs/input_2025.txt ../data/inputs/input_2026.txt 476
+../data/inputs/input_2023.txt 
+../data/inputs/input_2024.txt 936
+../data/inputs/input_2025.txt 
+../data/inputs/input_2026.txt 476
 ../data/inputs/input_2027.txt 0
 ../data/inputs/input_2028.txt 430
 ../data/inputs/input_2029.txt 0
@@ -1066,19 +1165,23 @@
 ../data/inputs/input_2046.txt 111
 ../data/inputs/input_2047.txt 75
 ../data/inputs/input_2048.txt 295
-../data/inputs/input_2049.txt ../data/inputs/input_205.txt 445
+../data/inputs/input_2049.txt 
+../data/inputs/input_205.txt 445
 ../data/inputs/input_2050.txt 0
 ../data/inputs/input_2051.txt 0
 ../data/inputs/input_2052.txt 703
-../data/inputs/input_2053.txt ../data/inputs/input_2054.txt 300
+../data/inputs/input_2053.txt 
+../data/inputs/input_2054.txt 300
 ../data/inputs/input_2055.txt 0
 ../data/inputs/input_2056.txt 0
 ../data/inputs/input_2057.txt 510
 ../data/inputs/input_2058.txt 181
 ../data/inputs/input_2059.txt 367
 ../data/inputs/input_206.txt 80
-../data/inputs/input_2060.txt ../data/inputs/input_2061.txt 432
-../data/inputs/input_2062.txt ../data/inputs/input_2063.txt 45
+../data/inputs/input_2060.txt 
+../data/inputs/input_2061.txt 432
+../data/inputs/input_2062.txt 
+../data/inputs/input_2063.txt 45
 ../data/inputs/input_2064.txt 150
 ../data/inputs/input_2065.txt 125
 ../data/inputs/input_2066.txt 158
@@ -1105,20 +1208,24 @@
 ../data/inputs/input_2085.txt 512
 ../data/inputs/input_2086.txt 540
 ../data/inputs/input_2087.txt 0
-../data/inputs/input_2088.txt ../data/inputs/input_2089.txt 662
+../data/inputs/input_2088.txt 
+../data/inputs/input_2089.txt 662
 ../data/inputs/input_209.txt 69
 ../data/inputs/input_2090.txt 515
 ../data/inputs/input_2091.txt 496
 ../data/inputs/input_2092.txt 289
-../data/inputs/input_2093.txt ../data/inputs/input_2094.txt 0
+../data/inputs/input_2093.txt 
+../data/inputs/input_2094.txt 0
 ../data/inputs/input_2095.txt 0
 ../data/inputs/input_2096.txt 118
 ../data/inputs/input_2097.txt 284
 ../data/inputs/input_2098.txt 278
 ../data/inputs/input_2099.txt 452
 ../data/inputs/input_21.txt 582
-../data/inputs/input_210.txt ../data/inputs/input_2100.txt 0
-../data/inputs/input_2101.txt ../data/inputs/input_2102.txt 0
+../data/inputs/input_210.txt 
+../data/inputs/input_2100.txt 0
+../data/inputs/input_2101.txt 
+../data/inputs/input_2102.txt 0
 ../data/inputs/input_2103.txt 0
 ../data/inputs/input_2104.txt 314
 ../data/inputs/input_2105.txt 111
@@ -1148,10 +1255,12 @@
 ../data/inputs/input_2127.txt 406
 ../data/inputs/input_2128.txt 61
 ../data/inputs/input_2129.txt 104
-../data/inputs/input_213.txt ../data/inputs/input_2130.txt 464
+../data/inputs/input_213.txt 
+../data/inputs/input_2130.txt 464
 ../data/inputs/input_2131.txt 102
 ../data/inputs/input_2132.txt 0
-../data/inputs/input_2133.txt ../data/inputs/input_2134.txt 268
+../data/inputs/input_2133.txt 
+../data/inputs/input_2134.txt 268
 ../data/inputs/input_2135.txt 398
 ../data/inputs/input_2136.txt 292
 ../data/inputs/input_2137.txt 292
@@ -1163,7 +1272,8 @@
 ../data/inputs/input_2142.txt 126
 ../data/inputs/input_2143.txt 208
 ../data/inputs/input_2144.txt 76
-../data/inputs/input_2145.txt ../data/inputs/input_2146.txt 228
+../data/inputs/input_2145.txt 
+../data/inputs/input_2146.txt 228
 ../data/inputs/input_2147.txt 0
 ../data/inputs/input_2148.txt 0
 ../data/inputs/input_2149.txt 148
@@ -1178,8 +1288,11 @@
 ../data/inputs/input_2157.txt 96
 ../data/inputs/input_2158.txt 390
 ../data/inputs/input_2159.txt 0
-../data/inputs/input_216.txt ../data/inputs/input_2160.txt ../data/inputs/input_2161.txt 0
-../data/inputs/input_2162.txt ../data/inputs/input_2163.txt 253
+../data/inputs/input_216.txt 
+../data/inputs/input_2160.txt 
+../data/inputs/input_2161.txt 0
+../data/inputs/input_2162.txt 
+../data/inputs/input_2163.txt 253
 ../data/inputs/input_2164.txt 545
 ../data/inputs/input_2165.txt 524
 ../data/inputs/input_2166.txt 534
@@ -1221,7 +1334,8 @@
 ../data/inputs/input_2199.txt 137
 ../data/inputs/input_22.txt 286
 ../data/inputs/input_220.txt 56
-../data/inputs/input_2200.txt ../data/inputs/input_2201.txt 0
+../data/inputs/input_2200.txt 
+../data/inputs/input_2201.txt 0
 ../data/inputs/input_2202.txt 181
 ../data/inputs/input_2203.txt 0
 ../data/inputs/input_2204.txt 720
@@ -1231,7 +1345,8 @@
 ../data/inputs/input_2208.txt 323
 ../data/inputs/input_2209.txt 87
 ../data/inputs/input_221.txt 0
-../data/inputs/input_2210.txt ../data/inputs/input_2211.txt 37
+../data/inputs/input_2210.txt 
+../data/inputs/input_2211.txt 37
 ../data/inputs/input_2212.txt 0
 ../data/inputs/input_2213.txt 511
 ../data/inputs/input_2214.txt 526
@@ -1242,10 +1357,13 @@
 ../data/inputs/input_2219.txt 0
 ../data/inputs/input_222.txt 102
 ../data/inputs/input_2220.txt 0
-../data/inputs/input_2221.txt ../data/inputs/input_2222.txt 0
+../data/inputs/input_2221.txt 
+../data/inputs/input_2222.txt 0
 ../data/inputs/input_2223.txt 802
 ../data/inputs/input_2224.txt 51
-../data/inputs/input_2225.txt ../data/inputs/input_2226.txt ../data/inputs/input_2227.txt 0
+../data/inputs/input_2225.txt 
+../data/inputs/input_2226.txt 
+../data/inputs/input_2227.txt 0
 ../data/inputs/input_2228.txt 307
 ../data/inputs/input_2229.txt 293
 ../data/inputs/input_223.txt 105
@@ -1270,7 +1388,8 @@
 ../data/inputs/input_2247.txt 0
 ../data/inputs/input_2248.txt 567
 ../data/inputs/input_2249.txt 674
-../data/inputs/input_225.txt ../data/inputs/input_2250.txt 0
+../data/inputs/input_225.txt 
+../data/inputs/input_2250.txt 0
 ../data/inputs/input_2251.txt 43
 ../data/inputs/input_2252.txt 0
 ../data/inputs/input_2253.txt 0
@@ -1282,21 +1401,26 @@
 ../data/inputs/input_2259.txt 0
 ../data/inputs/input_226.txt 0
 ../data/inputs/input_2260.txt 97
-../data/inputs/input_2261.txt ../data/inputs/input_2262.txt 367
+../data/inputs/input_2261.txt 
+../data/inputs/input_2262.txt 367
 ../data/inputs/input_2263.txt 268
 ../data/inputs/input_2264.txt 363
-../data/inputs/input_2265.txt ../data/inputs/input_2266.txt 794
+../data/inputs/input_2265.txt 
+../data/inputs/input_2266.txt 794
 ../data/inputs/input_2267.txt 322
 ../data/inputs/input_2268.txt 268
 ../data/inputs/input_2269.txt 0
 ../data/inputs/input_227.txt 203
-../data/inputs/input_2270.txt ../data/inputs/input_2271.txt 0
+../data/inputs/input_2270.txt 
+../data/inputs/input_2271.txt 0
 ../data/inputs/input_2272.txt 500
 ../data/inputs/input_2273.txt 0
 ../data/inputs/input_2274.txt 188
 ../data/inputs/input_2275.txt 0
 ../data/inputs/input_2276.txt 398
-../data/inputs/input_2277.txt ../data/inputs/input_2278.txt ../data/inputs/input_2279.txt 0
+../data/inputs/input_2277.txt 
+../data/inputs/input_2278.txt 
+../data/inputs/input_2279.txt 0
 ../data/inputs/input_228.txt 661
 ../data/inputs/input_2280.txt 213
 ../data/inputs/input_2281.txt 339
@@ -1309,7 +1433,8 @@
 ../data/inputs/input_2288.txt 518
 ../data/inputs/input_2289.txt 109
 ../data/inputs/input_229.txt 727
-../data/inputs/input_2290.txt ../data/inputs/input_2291.txt 116
+../data/inputs/input_2290.txt 
+../data/inputs/input_2291.txt 116
 ../data/inputs/input_2292.txt 0
 ../data/inputs/input_2293.txt 47
 ../data/inputs/input_2294.txt 243
@@ -1319,7 +1444,8 @@
 ../data/inputs/input_2298.txt 161
 ../data/inputs/input_2299.txt 0
 ../data/inputs/input_23.txt 579
-../data/inputs/input_230.txt ../data/inputs/input_2300.txt 0
+../data/inputs/input_230.txt 
+../data/inputs/input_2300.txt 0
 ../data/inputs/input_2301.txt 95
 ../data/inputs/input_2302.txt 246
 ../data/inputs/input_2303.txt 113
@@ -1327,7 +1453,8 @@
 ../data/inputs/input_2305.txt 0
 ../data/inputs/input_2306.txt 0
 ../data/inputs/input_2307.txt 0
-../data/inputs/input_2308.txt ../data/inputs/input_2309.txt 0
+../data/inputs/input_2308.txt 
+../data/inputs/input_2309.txt 0
 ../data/inputs/input_231.txt 106
 ../data/inputs/input_2310.txt 191
 ../data/inputs/input_2311.txt 0
@@ -1351,7 +1478,8 @@
 ../data/inputs/input_2328.txt 0
 ../data/inputs/input_2329.txt 389
 ../data/inputs/input_233.txt 135
-../data/inputs/input_2330.txt ../data/inputs/input_2331.txt 96
+../data/inputs/input_2330.txt 
+../data/inputs/input_2331.txt 96
 ../data/inputs/input_2332.txt 384
 ../data/inputs/input_2333.txt 277
 ../data/inputs/input_2334.txt 194
@@ -1364,12 +1492,14 @@
 ../data/inputs/input_2340.txt 670
 ../data/inputs/input_2341.txt 0
 ../data/inputs/input_2342.txt 562
-../data/inputs/input_2343.txt ../data/inputs/input_2344.txt 610
+../data/inputs/input_2343.txt 
+../data/inputs/input_2344.txt 610
 ../data/inputs/input_2345.txt 66
 ../data/inputs/input_2346.txt 129
 ../data/inputs/input_2347.txt 0
 ../data/inputs/input_2348.txt 0
-../data/inputs/input_2349.txt ../data/inputs/input_235.txt 31
+../data/inputs/input_2349.txt 
+../data/inputs/input_235.txt 31
 ../data/inputs/input_2350.txt 404
 ../data/inputs/input_2351.txt 290
 ../data/inputs/input_2352.txt 0
@@ -1381,7 +1511,8 @@
 ../data/inputs/input_2358.txt 739
 ../data/inputs/input_2359.txt 152
 ../data/inputs/input_236.txt 152
-../data/inputs/input_2360.txt ../data/inputs/input_2361.txt 167
+../data/inputs/input_2360.txt 
+../data/inputs/input_2361.txt 167
 ../data/inputs/input_2362.txt 0
 ../data/inputs/input_2363.txt 278
 ../data/inputs/input_2364.txt 496
@@ -1412,7 +1543,9 @@
 ../data/inputs/input_2387.txt 0
 ../data/inputs/input_2388.txt 390
 ../data/inputs/input_2389.txt 168
-../data/inputs/input_239.txt ../data/inputs/input_2390.txt ../data/inputs/input_2391.txt 162
+../data/inputs/input_239.txt 
+../data/inputs/input_2390.txt 
+../data/inputs/input_2391.txt 162
 ../data/inputs/input_2392.txt 218
 ../data/inputs/input_2393.txt 0
 ../data/inputs/input_2394.txt 42
@@ -1438,7 +1571,8 @@
 ../data/inputs/input_2411.txt 120
 ../data/inputs/input_2412.txt 730
 ../data/inputs/input_2413.txt 656
-../data/inputs/input_2414.txt ../data/inputs/input_2415.txt 0
+../data/inputs/input_2414.txt 
+../data/inputs/input_2415.txt 0
 ../data/inputs/input_2416.txt 374
 ../data/inputs/input_2417.txt 102
 ../data/inputs/input_2418.txt 0
@@ -1477,13 +1611,16 @@
 ../data/inputs/input_2448.txt 519
 ../data/inputs/input_2449.txt 232
 ../data/inputs/input_245.txt 0
-../data/inputs/input_2450.txt ../data/inputs/input_2451.txt 168
+../data/inputs/input_2450.txt 
+../data/inputs/input_2451.txt 168
 ../data/inputs/input_2452.txt 292
-../data/inputs/input_2453.txt ../data/inputs/input_2454.txt 0
+../data/inputs/input_2453.txt 
+../data/inputs/input_2454.txt 0
 ../data/inputs/input_2455.txt 374
 ../data/inputs/input_2456.txt 222
 ../data/inputs/input_2457.txt 540
-../data/inputs/input_2458.txt ../data/inputs/input_2459.txt 226
+../data/inputs/input_2458.txt 
+../data/inputs/input_2459.txt 226
 ../data/inputs/input_246.txt 0
 ../data/inputs/input_2460.txt 639
 ../data/inputs/input_2461.txt 289
@@ -1500,7 +1637,8 @@
 ../data/inputs/input_2471.txt 0
 ../data/inputs/input_2472.txt 0
 ../data/inputs/input_2473.txt 0
-../data/inputs/input_2474.txt ../data/inputs/input_2475.txt 219
+../data/inputs/input_2474.txt 
+../data/inputs/input_2475.txt 219
 ../data/inputs/input_2476.txt 148
 ../data/inputs/input_2477.txt 0
 ../data/inputs/input_2478.txt 629
@@ -1532,11 +1670,13 @@
 ../data/inputs/input_2500.txt 0
 ../data/inputs/input_2501.txt 255
 ../data/inputs/input_2502.txt 0
-../data/inputs/input_2503.txt ../data/inputs/input_2504.txt 51
+../data/inputs/input_2503.txt 
+../data/inputs/input_2504.txt 51
 ../data/inputs/input_2505.txt 0
 ../data/inputs/input_2506.txt 184
 ../data/inputs/input_2507.txt 166
-../data/inputs/input_2508.txt ../data/inputs/input_2509.txt 123
+../data/inputs/input_2508.txt 
+../data/inputs/input_2509.txt 123
 ../data/inputs/input_251.txt 56
 ../data/inputs/input_2510.txt 165
 ../data/inputs/input_2511.txt 298
@@ -1553,7 +1693,8 @@
 ../data/inputs/input_2521.txt 84
 ../data/inputs/input_2522.txt 0
 ../data/inputs/input_2523.txt 60
-../data/inputs/input_2524.txt ../data/inputs/input_2525.txt 148
+../data/inputs/input_2524.txt 
+../data/inputs/input_2525.txt 148
 ../data/inputs/input_2526.txt 207
 ../data/inputs/input_2527.txt 0
 ../data/inputs/input_2528.txt 0
@@ -1581,7 +1722,8 @@
 ../data/inputs/input_2548.txt 591
 ../data/inputs/input_2549.txt 277
 ../data/inputs/input_255.txt 72
-../data/inputs/input_2550.txt ../data/inputs/input_2551.txt 126
+../data/inputs/input_2550.txt 
+../data/inputs/input_2551.txt 126
 ../data/inputs/input_2552.txt 0
 ../data/inputs/input_2553.txt 586
 ../data/inputs/input_2554.txt 112
@@ -1599,9 +1741,11 @@
 ../data/inputs/input_2565.txt 162
 ../data/inputs/input_2566.txt 228
 ../data/inputs/input_2567.txt 701
-../data/inputs/input_2568.txt ../data/inputs/input_2569.txt 50
+../data/inputs/input_2568.txt 
+../data/inputs/input_2569.txt 50
 ../data/inputs/input_257.txt 51
-../data/inputs/input_2570.txt ../data/inputs/input_2571.txt 459
+../data/inputs/input_2570.txt 
+../data/inputs/input_2571.txt 459
 ../data/inputs/input_2572.txt 126
 ../data/inputs/input_2573.txt 149
 ../data/inputs/input_2574.txt 0
@@ -1650,17 +1794,21 @@
 ../data/inputs/input_2612.txt 27
 ../data/inputs/input_2613.txt 198
 ../data/inputs/input_2614.txt 59
-../data/inputs/input_2615.txt ../data/inputs/input_2616.txt 352
+../data/inputs/input_2615.txt 
+../data/inputs/input_2616.txt 352
 ../data/inputs/input_2617.txt 0
 ../data/inputs/input_2618.txt 102
 ../data/inputs/input_2619.txt 0
 ../data/inputs/input_262.txt 537
-../data/inputs/input_2620.txt ../data/inputs/input_2621.txt 0
+../data/inputs/input_2620.txt 
+../data/inputs/input_2621.txt 0
 ../data/inputs/input_2622.txt 904
 ../data/inputs/input_2623.txt 82
-../data/inputs/input_2624.txt ../data/inputs/input_2625.txt 71
+../data/inputs/input_2624.txt 
+../data/inputs/input_2625.txt 71
 ../data/inputs/input_2626.txt 0
-../data/inputs/input_2627.txt ../data/inputs/input_2628.txt 341
+../data/inputs/input_2627.txt 
+../data/inputs/input_2628.txt 341
 ../data/inputs/input_2629.txt 645
 ../data/inputs/input_263.txt 0
 ../data/inputs/input_2630.txt 116
@@ -1676,14 +1824,16 @@
 ../data/inputs/input_264.txt 255
 ../data/inputs/input_2640.txt 601
 ../data/inputs/input_2641.txt 0
-../data/inputs/input_2642.txt ../data/inputs/input_2643.txt 580
+../data/inputs/input_2642.txt 
+../data/inputs/input_2643.txt 580
 ../data/inputs/input_2644.txt 0
 ../data/inputs/input_2645.txt 634
 ../data/inputs/input_2646.txt 257
 ../data/inputs/input_2647.txt 0
 ../data/inputs/input_2648.txt 224
 ../data/inputs/input_2649.txt 290
-../data/inputs/input_265.txt ../data/inputs/input_2650.txt 121
+../data/inputs/input_265.txt 
+../data/inputs/input_2650.txt 121
 ../data/inputs/input_2651.txt 221
 ../data/inputs/input_2652.txt 501
 ../data/inputs/input_2653.txt 270
@@ -1691,7 +1841,8 @@
 ../data/inputs/input_2655.txt 537
 ../data/inputs/input_2656.txt 0
 ../data/inputs/input_2657.txt 50
-../data/inputs/input_2658.txt ../data/inputs/input_2659.txt 663
+../data/inputs/input_2658.txt 
+../data/inputs/input_2659.txt 663
 ../data/inputs/input_266.txt 0
 ../data/inputs/input_2660.txt 464
 ../data/inputs/input_2661.txt 164
@@ -1700,7 +1851,8 @@
 ../data/inputs/input_2664.txt 232
 ../data/inputs/input_2665.txt 99
 ../data/inputs/input_2666.txt 148
-../data/inputs/input_2667.txt ../data/inputs/input_2668.txt 0
+../data/inputs/input_2667.txt 
+../data/inputs/input_2668.txt 0
 ../data/inputs/input_2669.txt 0
 ../data/inputs/input_267.txt 280
 ../data/inputs/input_2670.txt 113
@@ -1719,7 +1871,8 @@
 ../data/inputs/input_2682.txt 0
 ../data/inputs/input_2683.txt 850
 ../data/inputs/input_2684.txt 135
-../data/inputs/input_2685.txt ../data/inputs/input_2686.txt 123
+../data/inputs/input_2685.txt 
+../data/inputs/input_2686.txt 123
 ../data/inputs/input_2687.txt 0
 ../data/inputs/input_2688.txt 0
 ../data/inputs/input_2689.txt 251
@@ -1735,10 +1888,13 @@
 ../data/inputs/input_2698.txt 181
 ../data/inputs/input_2699.txt 183
 ../data/inputs/input_27.txt 69
-../data/inputs/input_270.txt ../data/inputs/input_2700.txt 0
+../data/inputs/input_270.txt 
+../data/inputs/input_2700.txt 0
 ../data/inputs/input_2701.txt 579
 ../data/inputs/input_2702.txt 95
-../data/inputs/input_2703.txt ../data/inputs/input_2704.txt ../data/inputs/input_2705.txt 0
+../data/inputs/input_2703.txt 
+../data/inputs/input_2704.txt 
+../data/inputs/input_2705.txt 0
 ../data/inputs/input_2706.txt 110
 ../data/inputs/input_2707.txt 562
 ../data/inputs/input_2708.txt 0
@@ -1773,11 +1929,15 @@
 ../data/inputs/input_2734.txt 0
 ../data/inputs/input_2735.txt 466
 ../data/inputs/input_2736.txt 216
-../data/inputs/input_2737.txt ../data/inputs/input_2738.txt 618
+../data/inputs/input_2737.txt 
+../data/inputs/input_2738.txt 618
 ../data/inputs/input_2739.txt 12
 ../data/inputs/input_274.txt 189
-../data/inputs/input_2740.txt ../data/inputs/input_2741.txt 51
-../data/inputs/input_2742.txt ../data/inputs/input_2743.txt ../data/inputs/input_2744.txt 0
+../data/inputs/input_2740.txt 
+../data/inputs/input_2741.txt 51
+../data/inputs/input_2742.txt 
+../data/inputs/input_2743.txt 
+../data/inputs/input_2744.txt 0
 ../data/inputs/input_2745.txt 563
 ../data/inputs/input_2746.txt 99
 ../data/inputs/input_2747.txt 521
@@ -1800,17 +1960,20 @@
 ../data/inputs/input_2762.txt 77
 ../data/inputs/input_2763.txt 471
 ../data/inputs/input_2764.txt 210
-../data/inputs/input_2765.txt ../data/inputs/input_2766.txt 0
+../data/inputs/input_2765.txt 
+../data/inputs/input_2766.txt 0
 ../data/inputs/input_2767.txt 456
 ../data/inputs/input_2768.txt 135
 ../data/inputs/input_2769.txt 0
 ../data/inputs/input_277.txt 0
 ../data/inputs/input_2770.txt 54
-../data/inputs/input_2771.txt ../data/inputs/input_2772.txt 302
+../data/inputs/input_2771.txt 
+../data/inputs/input_2772.txt 302
 ../data/inputs/input_2773.txt 77
 ../data/inputs/input_2774.txt 704
 ../data/inputs/input_2775.txt 0
-../data/inputs/input_2776.txt ../data/inputs/input_2777.txt 72
+../data/inputs/input_2776.txt 
+../data/inputs/input_2777.txt 72
 ../data/inputs/input_2778.txt 0
 ../data/inputs/input_2779.txt 0
 ../data/inputs/input_278.txt 87
@@ -1840,7 +2003,8 @@
 ../data/inputs/input_2800.txt 506
 ../data/inputs/input_2801.txt 0
 ../data/inputs/input_2802.txt 122
-../data/inputs/input_2803.txt ../data/inputs/input_2804.txt 0
+../data/inputs/input_2803.txt 
+../data/inputs/input_2804.txt 0
 ../data/inputs/input_2805.txt 205
 ../data/inputs/input_2806.txt 0
 ../data/inputs/input_2807.txt 824
@@ -1850,7 +2014,8 @@
 ../data/inputs/input_2810.txt 0
 ../data/inputs/input_2811.txt 0
 ../data/inputs/input_2812.txt 302
-../data/inputs/input_2813.txt ../data/inputs/input_2814.txt 157
+../data/inputs/input_2813.txt 
+../data/inputs/input_2814.txt 157
 ../data/inputs/input_2815.txt 0
 ../data/inputs/input_2816.txt 275
 ../data/inputs/input_2817.txt 127
@@ -1887,7 +2052,8 @@
 ../data/inputs/input_2845.txt 110
 ../data/inputs/input_2846.txt 391
 ../data/inputs/input_2847.txt 472
-../data/inputs/input_2848.txt ../data/inputs/input_2849.txt 322
+../data/inputs/input_2848.txt 
+../data/inputs/input_2849.txt 322
 ../data/inputs/input_285.txt 183
 ../data/inputs/input_2850.txt 692
 ../data/inputs/input_2851.txt 189
@@ -1901,7 +2067,8 @@
 ../data/inputs/input_2859.txt 70
 ../data/inputs/input_286.txt 506
 ../data/inputs/input_2860.txt 378
-../data/inputs/input_2861.txt ../data/inputs/input_2862.txt 0
+../data/inputs/input_2861.txt 
+../data/inputs/input_2862.txt 0
 ../data/inputs/input_2863.txt 95
 ../data/inputs/input_2864.txt 262
 ../data/inputs/input_2865.txt 330
@@ -1924,10 +2091,12 @@
 ../data/inputs/input_2880.txt 105
 ../data/inputs/input_2881.txt 0
 ../data/inputs/input_2882.txt 0
-../data/inputs/input_2883.txt ../data/inputs/input_2884.txt 0
+../data/inputs/input_2883.txt 
+../data/inputs/input_2884.txt 0
 ../data/inputs/input_2885.txt 0
 ../data/inputs/input_2886.txt 85
-../data/inputs/input_2887.txt ../data/inputs/input_2888.txt 229
+../data/inputs/input_2887.txt 
+../data/inputs/input_2888.txt 229
 ../data/inputs/input_2889.txt 0
 ../data/inputs/input_289.txt 125
 ../data/inputs/input_2890.txt 0
@@ -1983,7 +2152,8 @@
 ../data/inputs/input_2935.txt 90
 ../data/inputs/input_2936.txt 36
 ../data/inputs/input_2937.txt 75
-../data/inputs/input_2938.txt ../data/inputs/input_2939.txt 0
+../data/inputs/input_2938.txt 
+../data/inputs/input_2939.txt 0
 ../data/inputs/input_294.txt 426
 ../data/inputs/input_2940.txt 345
 ../data/inputs/input_2941.txt 900
@@ -2044,10 +2214,15 @@
 ../data/inputs/input_2991.txt 0
 ../data/inputs/input_2992.txt 692
 ../data/inputs/input_2993.txt 277
-../data/inputs/input_2994.txt ../data/inputs/input_2995.txt ../data/inputs/input_2996.txt ../data/inputs/input_2997.txt 298
-../data/inputs/input_2998.txt ../data/inputs/input_2999.txt 0
+../data/inputs/input_2994.txt 
+../data/inputs/input_2995.txt 
+../data/inputs/input_2996.txt 
+../data/inputs/input_2997.txt 298
+../data/inputs/input_2998.txt 
+../data/inputs/input_2999.txt 0
 ../data/inputs/input_3.txt 0
-../data/inputs/input_30.txt ../data/inputs/input_300.txt 39
+../data/inputs/input_30.txt 
+../data/inputs/input_300.txt 39
 ../data/inputs/input_3000.txt 0
 ../data/inputs/input_301.txt 111
 ../data/inputs/input_302.txt 365
@@ -2068,7 +2243,8 @@
 ../data/inputs/input_316.txt 158
 ../data/inputs/input_317.txt 726
 ../data/inputs/input_318.txt 0
-../data/inputs/input_319.txt ../data/inputs/input_32.txt 488
+../data/inputs/input_319.txt 
+../data/inputs/input_32.txt 488
 ../data/inputs/input_320.txt 0
 ../data/inputs/input_321.txt 120
 ../data/inputs/input_322.txt 84
@@ -2084,7 +2260,8 @@
 ../data/inputs/input_331.txt 172
 ../data/inputs/input_332.txt 76
 ../data/inputs/input_333.txt 686
-../data/inputs/input_334.txt ../data/inputs/input_335.txt 292
+../data/inputs/input_334.txt 
+../data/inputs/input_335.txt 292
 ../data/inputs/input_336.txt 0
 ../data/inputs/input_337.txt 95
 ../data/inputs/input_338.txt 678
@@ -2092,10 +2269,12 @@
 ../data/inputs/input_34.txt 181
 ../data/inputs/input_340.txt 214
 ../data/inputs/input_341.txt 93
-../data/inputs/input_342.txt ../data/inputs/input_343.txt 324
+../data/inputs/input_342.txt 
+../data/inputs/input_343.txt 324
 ../data/inputs/input_344.txt 0
 ../data/inputs/input_345.txt 167
-../data/inputs/input_346.txt ../data/inputs/input_347.txt 64
+../data/inputs/input_346.txt 
+../data/inputs/input_347.txt 64
 ../data/inputs/input_348.txt 101
 ../data/inputs/input_349.txt 394
 ../data/inputs/input_35.txt 0
@@ -2115,7 +2294,8 @@
 ../data/inputs/input_362.txt 385
 ../data/inputs/input_363.txt 182
 ../data/inputs/input_364.txt 93
-../data/inputs/input_365.txt ../data/inputs/input_366.txt 0
+../data/inputs/input_365.txt 
+../data/inputs/input_366.txt 0
 ../data/inputs/input_367.txt 196
 ../data/inputs/input_368.txt 0
 ../data/inputs/input_369.txt 0
@@ -2150,12 +2330,15 @@
 ../data/inputs/input_395.txt 0
 ../data/inputs/input_396.txt 62
 ../data/inputs/input_397.txt 491
-../data/inputs/input_398.txt ../data/inputs/input_399.txt 0
+../data/inputs/input_398.txt 
+../data/inputs/input_399.txt 0
 ../data/inputs/input_4.txt 0
 ../data/inputs/input_40.txt 218
-../data/inputs/input_400.txt ../data/inputs/input_401.txt 558
+../data/inputs/input_400.txt 
+../data/inputs/input_401.txt 558
 ../data/inputs/input_402.txt 422
-../data/inputs/input_403.txt ../data/inputs/input_404.txt 444
+../data/inputs/input_403.txt 
+../data/inputs/input_404.txt 444
 ../data/inputs/input_405.txt 99
 ../data/inputs/input_406.txt 269
 ../data/inputs/input_407.txt 165
@@ -2175,7 +2358,8 @@
 ../data/inputs/input_42.txt 510
 ../data/inputs/input_420.txt 339
 ../data/inputs/input_421.txt 0
-../data/inputs/input_422.txt ../data/inputs/input_423.txt 0
+../data/inputs/input_422.txt 
+../data/inputs/input_423.txt 0
 ../data/inputs/input_424.txt 272
 ../data/inputs/input_425.txt 384
 ../data/inputs/input_426.txt 0
@@ -2210,7 +2394,8 @@
 ../data/inputs/input_452.txt 0
 ../data/inputs/input_453.txt 287
 ../data/inputs/input_454.txt 93
-../data/inputs/input_455.txt ../data/inputs/input_456.txt 0
+../data/inputs/input_455.txt 
+../data/inputs/input_456.txt 0
 ../data/inputs/input_457.txt 272
 ../data/inputs/input_458.txt 655
 ../data/inputs/input_459.txt 479
@@ -2224,10 +2409,12 @@
 ../data/inputs/input_466.txt 135
 ../data/inputs/input_467.txt 355
 ../data/inputs/input_468.txt 46
-../data/inputs/input_469.txt ../data/inputs/input_47.txt 222
+../data/inputs/input_469.txt 
+../data/inputs/input_47.txt 222
 ../data/inputs/input_470.txt 83
 ../data/inputs/input_471.txt 227
-../data/inputs/input_472.txt ../data/inputs/input_473.txt 0
+../data/inputs/input_472.txt 
+../data/inputs/input_473.txt 0
 ../data/inputs/input_474.txt 0
 ../data/inputs/input_475.txt 195
 ../data/inputs/input_476.txt 247
@@ -2240,7 +2427,8 @@
 ../data/inputs/input_482.txt 106
 ../data/inputs/input_483.txt 562
 ../data/inputs/input_484.txt 0
-../data/inputs/input_485.txt ../data/inputs/input_486.txt 188
+../data/inputs/input_485.txt 
+../data/inputs/input_486.txt 188
 ../data/inputs/input_487.txt 101
 ../data/inputs/input_488.txt 817
 ../data/inputs/input_489.txt 141
@@ -2257,7 +2445,8 @@
 ../data/inputs/input_499.txt 0
 ../data/inputs/input_5.txt 101
 ../data/inputs/input_50.txt 158
-../data/inputs/input_500.txt ../data/inputs/input_501.txt 0
+../data/inputs/input_500.txt 
+../data/inputs/input_501.txt 0
 ../data/inputs/input_502.txt 0
 ../data/inputs/input_503.txt 101
 ../data/inputs/input_504.txt 0
@@ -2266,7 +2455,8 @@
 ../data/inputs/input_507.txt 0
 ../data/inputs/input_508.txt 300
 ../data/inputs/input_509.txt 260
-../data/inputs/input_51.txt ../data/inputs/input_510.txt 465
+../data/inputs/input_51.txt 
+../data/inputs/input_510.txt 465
 ../data/inputs/input_511.txt 464
 ../data/inputs/input_512.txt 451
 ../data/inputs/input_513.txt 448
@@ -2277,12 +2467,14 @@
 ../data/inputs/input_518.txt 190
 ../data/inputs/input_519.txt 677
 ../data/inputs/input_52.txt 123
-../data/inputs/input_520.txt ../data/inputs/input_521.txt 0
+../data/inputs/input_520.txt 
+../data/inputs/input_521.txt 0
 ../data/inputs/input_522.txt 0
 ../data/inputs/input_523.txt 0
 ../data/inputs/input_524.txt 0
 ../data/inputs/input_525.txt 631
-../data/inputs/input_526.txt ../data/inputs/input_527.txt 0
+../data/inputs/input_526.txt 
+../data/inputs/input_527.txt 0
 ../data/inputs/input_528.txt 460
 ../data/inputs/input_529.txt 0
 ../data/inputs/input_53.txt 243
@@ -2301,8 +2493,10 @@
 ../data/inputs/input_541.txt 0
 ../data/inputs/input_542.txt 146
 ../data/inputs/input_543.txt 0
-../data/inputs/input_544.txt ../data/inputs/input_545.txt 0
-../data/inputs/input_546.txt ../data/inputs/input_547.txt 451
+../data/inputs/input_544.txt 
+../data/inputs/input_545.txt 0
+../data/inputs/input_546.txt 
+../data/inputs/input_547.txt 451
 ../data/inputs/input_548.txt 190
 ../data/inputs/input_549.txt 183
 ../data/inputs/input_55.txt 440
@@ -2310,25 +2504,32 @@
 ../data/inputs/input_551.txt 628
 ../data/inputs/input_552.txt 99
 ../data/inputs/input_553.txt 0
-../data/inputs/input_554.txt ../data/inputs/input_555.txt 153
+../data/inputs/input_554.txt 
+../data/inputs/input_555.txt 153
 ../data/inputs/input_556.txt 26
 ../data/inputs/input_557.txt 0
-../data/inputs/input_558.txt ../data/inputs/input_559.txt 0
+../data/inputs/input_558.txt 
+../data/inputs/input_559.txt 0
 ../data/inputs/input_56.txt 270
 ../data/inputs/input_560.txt 162
 ../data/inputs/input_561.txt 108
 ../data/inputs/input_562.txt 104
 ../data/inputs/input_563.txt 198
 ../data/inputs/input_564.txt 0
-../data/inputs/input_565.txt ../data/inputs/input_566.txt 349
+../data/inputs/input_565.txt 
+../data/inputs/input_566.txt 349
 ../data/inputs/input_567.txt 0
 ../data/inputs/input_568.txt 113
-../data/inputs/input_569.txt ../data/inputs/input_57.txt 0
+../data/inputs/input_569.txt 
+../data/inputs/input_57.txt 0
 ../data/inputs/input_570.txt 100
-../data/inputs/input_571.txt ../data/inputs/input_572.txt 136
+../data/inputs/input_571.txt 
+../data/inputs/input_572.txt 136
 ../data/inputs/input_573.txt 0
 ../data/inputs/input_574.txt 569
-../data/inputs/input_575.txt ../data/inputs/input_576.txt ../data/inputs/input_577.txt 0
+../data/inputs/input_575.txt 
+../data/inputs/input_576.txt 
+../data/inputs/input_577.txt 0
 ../data/inputs/input_578.txt 748
 ../data/inputs/input_579.txt 95
 ../data/inputs/input_58.txt 151
@@ -2362,9 +2563,12 @@
 ../data/inputs/input_604.txt 540
 ../data/inputs/input_605.txt 0
 ../data/inputs/input_606.txt 371
-../data/inputs/input_607.txt ../data/inputs/input_608.txt ../data/inputs/input_609.txt 268
+../data/inputs/input_607.txt 
+../data/inputs/input_608.txt 
+../data/inputs/input_609.txt 268
 ../data/inputs/input_61.txt 381
-../data/inputs/input_610.txt ../data/inputs/input_611.txt 0
+../data/inputs/input_610.txt 
+../data/inputs/input_611.txt 0
 ../data/inputs/input_612.txt 304
 ../data/inputs/input_613.txt 0
 ../data/inputs/input_614.txt 133
@@ -2374,7 +2578,8 @@
 ../data/inputs/input_618.txt 0
 ../data/inputs/input_619.txt 260
 ../data/inputs/input_62.txt 0
-../data/inputs/input_620.txt ../data/inputs/input_621.txt 24
+../data/inputs/input_620.txt 
+../data/inputs/input_621.txt 24
 ../data/inputs/input_622.txt 0
 ../data/inputs/input_623.txt 0
 ../data/inputs/input_624.txt 0
@@ -2386,7 +2591,8 @@
 ../data/inputs/input_63.txt 160
 ../data/inputs/input_630.txt 0
 ../data/inputs/input_631.txt 285
-../data/inputs/input_632.txt ../data/inputs/input_633.txt 0
+../data/inputs/input_632.txt 
+../data/inputs/input_633.txt 0
 ../data/inputs/input_634.txt 614
 ../data/inputs/input_635.txt 834
 ../data/inputs/input_636.txt 0
@@ -2405,9 +2611,11 @@
 ../data/inputs/input_648.txt 270
 ../data/inputs/input_649.txt 513
 ../data/inputs/input_65.txt 420
-../data/inputs/input_650.txt ../data/inputs/input_651.txt 0
+../data/inputs/input_650.txt 
+../data/inputs/input_651.txt 0
 ../data/inputs/input_652.txt 162
-../data/inputs/input_653.txt ../data/inputs/input_654.txt 173
+../data/inputs/input_653.txt 
+../data/inputs/input_654.txt 173
 ../data/inputs/input_655.txt 473
 ../data/inputs/input_656.txt 0
 ../data/inputs/input_657.txt 88
@@ -2430,7 +2638,8 @@
 ../data/inputs/input_672.txt 334
 ../data/inputs/input_673.txt 352
 ../data/inputs/input_674.txt 849
-../data/inputs/input_675.txt ../data/inputs/input_676.txt 79
+../data/inputs/input_675.txt 
+../data/inputs/input_676.txt 79
 ../data/inputs/input_677.txt 46
 ../data/inputs/input_678.txt 89
 ../data/inputs/input_679.txt 0
@@ -2450,7 +2659,8 @@
 ../data/inputs/input_691.txt 101
 ../data/inputs/input_692.txt 160
 ../data/inputs/input_693.txt 79
-../data/inputs/input_694.txt ../data/inputs/input_695.txt 0
+../data/inputs/input_694.txt 
+../data/inputs/input_695.txt 0
 ../data/inputs/input_696.txt 187
 ../data/inputs/input_697.txt 590
 ../data/inputs/input_698.txt 0
@@ -2460,10 +2670,12 @@
 ../data/inputs/input_700.txt 29
 ../data/inputs/input_701.txt 339
 ../data/inputs/input_702.txt 39
-../data/inputs/input_703.txt ../data/inputs/input_704.txt 0
+../data/inputs/input_703.txt 
+../data/inputs/input_704.txt 0
 ../data/inputs/input_705.txt 83
 ../data/inputs/input_706.txt 553
-../data/inputs/input_707.txt ../data/inputs/input_708.txt 108
+../data/inputs/input_707.txt 
+../data/inputs/input_708.txt 108
 ../data/inputs/input_709.txt 0
 ../data/inputs/input_71.txt 0
 ../data/inputs/input_710.txt 594
@@ -2474,7 +2686,8 @@
 ../data/inputs/input_715.txt 305
 ../data/inputs/input_716.txt 141
 ../data/inputs/input_717.txt 0
-../data/inputs/input_718.txt ../data/inputs/input_719.txt 0
+../data/inputs/input_718.txt 
+../data/inputs/input_719.txt 0
 ../data/inputs/input_72.txt 572
 ../data/inputs/input_720.txt 517
 ../data/inputs/input_721.txt 248
@@ -2520,7 +2733,8 @@
 ../data/inputs/input_758.txt 432
 ../data/inputs/input_759.txt 0
 ../data/inputs/input_76.txt 0
-../data/inputs/input_760.txt ../data/inputs/input_761.txt 82
+../data/inputs/input_760.txt 
+../data/inputs/input_761.txt 82
 ../data/inputs/input_762.txt 231
 ../data/inputs/input_763.txt 132
 ../data/inputs/input_764.txt 78
@@ -2535,18 +2749,21 @@
 ../data/inputs/input_772.txt 0
 ../data/inputs/input_773.txt 208
 ../data/inputs/input_774.txt 0
-../data/inputs/input_775.txt ../data/inputs/input_776.txt 0
+../data/inputs/input_775.txt 
+../data/inputs/input_776.txt 0
 ../data/inputs/input_777.txt 232
 ../data/inputs/input_778.txt 0
 ../data/inputs/input_779.txt 437
-../data/inputs/input_78.txt ../data/inputs/input_780.txt 408
+../data/inputs/input_78.txt 
+../data/inputs/input_780.txt 408
 ../data/inputs/input_781.txt 640
 ../data/inputs/input_782.txt 140
 ../data/inputs/input_783.txt 117
 ../data/inputs/input_784.txt 228
 ../data/inputs/input_785.txt 54
 ../data/inputs/input_786.txt 0
-../data/inputs/input_787.txt ../data/inputs/input_788.txt 626
+../data/inputs/input_787.txt 
+../data/inputs/input_788.txt 626
 ../data/inputs/input_789.txt 128
 ../data/inputs/input_79.txt 317
 ../data/inputs/input_790.txt 0
@@ -2556,7 +2773,8 @@
 ../data/inputs/input_794.txt 249
 ../data/inputs/input_795.txt 212
 ../data/inputs/input_796.txt 97
-../data/inputs/input_797.txt ../data/inputs/input_798.txt 0
+../data/inputs/input_797.txt 
+../data/inputs/input_798.txt 0
 ../data/inputs/input_799.txt 576
 ../data/inputs/input_8.txt 556
 ../data/inputs/input_80.txt 161
@@ -2583,16 +2801,19 @@
 ../data/inputs/input_819.txt 0
 ../data/inputs/input_82.txt 352
 ../data/inputs/input_820.txt 193
-../data/inputs/input_821.txt ../data/inputs/input_822.txt 142
+../data/inputs/input_821.txt 
+../data/inputs/input_822.txt 142
 ../data/inputs/input_823.txt 400
 ../data/inputs/input_824.txt 384
 ../data/inputs/input_825.txt 350
 ../data/inputs/input_826.txt 60
-../data/inputs/input_827.txt ../data/inputs/input_828.txt 127
+../data/inputs/input_827.txt 
+../data/inputs/input_828.txt 127
 ../data/inputs/input_829.txt 0
 ../data/inputs/input_83.txt 120
 ../data/inputs/input_830.txt 192
-../data/inputs/input_831.txt ../data/inputs/input_832.txt 398
+../data/inputs/input_831.txt 
+../data/inputs/input_832.txt 398
 ../data/inputs/input_833.txt 113
 ../data/inputs/input_834.txt 177
 ../data/inputs/input_835.txt 317
@@ -2606,7 +2827,8 @@
 ../data/inputs/input_842.txt 265
 ../data/inputs/input_843.txt 0
 ../data/inputs/input_844.txt 318
-../data/inputs/input_845.txt ../data/inputs/input_846.txt 140
+../data/inputs/input_845.txt 
+../data/inputs/input_846.txt 140
 ../data/inputs/input_847.txt 223
 ../data/inputs/input_848.txt 357
 ../data/inputs/input_849.txt 440
@@ -2620,9 +2842,11 @@
 ../data/inputs/input_856.txt 37
 ../data/inputs/input_857.txt 0
 ../data/inputs/input_858.txt 436
-../data/inputs/input_859.txt ../data/inputs/input_86.txt 264
+../data/inputs/input_859.txt 
+../data/inputs/input_86.txt 264
 ../data/inputs/input_860.txt 0
-../data/inputs/input_861.txt ../data/inputs/input_862.txt 576
+../data/inputs/input_861.txt 
+../data/inputs/input_862.txt 576
 ../data/inputs/input_863.txt 75
 ../data/inputs/input_864.txt 111
 ../data/inputs/input_865.txt 87
@@ -2639,12 +2863,14 @@
 ../data/inputs/input_875.txt 476
 ../data/inputs/input_876.txt 96
 ../data/inputs/input_877.txt 204
-../data/inputs/input_878.txt ../data/inputs/input_879.txt 0
+../data/inputs/input_878.txt 
+../data/inputs/input_879.txt 0
 ../data/inputs/input_88.txt 0
 ../data/inputs/input_880.txt 0
 ../data/inputs/input_881.txt 84
 ../data/inputs/input_882.txt 0
-../data/inputs/input_883.txt ../data/inputs/input_884.txt 217
+../data/inputs/input_883.txt 
+../data/inputs/input_884.txt 217
 ../data/inputs/input_885.txt 0
 ../data/inputs/input_886.txt 436
 ../data/inputs/input_887.txt 800
@@ -2665,7 +2891,8 @@
 ../data/inputs/input_90.txt 0
 ../data/inputs/input_900.txt 420
 ../data/inputs/input_901.txt 0
-../data/inputs/input_902.txt ../data/inputs/input_903.txt 366
+../data/inputs/input_902.txt 
+../data/inputs/input_903.txt 366
 ../data/inputs/input_904.txt 448
 ../data/inputs/input_905.txt 0
 ../data/inputs/input_906.txt 379
@@ -2682,7 +2909,8 @@
 ../data/inputs/input_916.txt 0
 ../data/inputs/input_917.txt 633
 ../data/inputs/input_918.txt 763
-../data/inputs/input_919.txt ../data/inputs/input_92.txt 308
+../data/inputs/input_919.txt 
+../data/inputs/input_92.txt 308
 ../data/inputs/input_920.txt 465
 ../data/inputs/input_921.txt 0
 ../data/inputs/input_922.txt 509
@@ -2692,7 +2920,8 @@
 ../data/inputs/input_926.txt 162
 ../data/inputs/input_927.txt 125
 ../data/inputs/input_928.txt 138
-../data/inputs/input_929.txt ../data/inputs/input_93.txt 196
+../data/inputs/input_929.txt 
+../data/inputs/input_93.txt 196
 ../data/inputs/input_930.txt 200
 ../data/inputs/input_931.txt 486
 ../data/inputs/input_932.txt 363
@@ -2709,12 +2938,14 @@
 ../data/inputs/input_942.txt 353
 ../data/inputs/input_943.txt 254
 ../data/inputs/input_944.txt 0
-../data/inputs/input_945.txt ../data/inputs/input_946.txt 65
+../data/inputs/input_945.txt 
+../data/inputs/input_946.txt 65
 ../data/inputs/input_947.txt 742
 ../data/inputs/input_948.txt 0
 ../data/inputs/input_949.txt 285
 ../data/inputs/input_95.txt 258
-../data/inputs/input_950.txt ../data/inputs/input_951.txt 225
+../data/inputs/input_950.txt 
+../data/inputs/input_951.txt 225
 ../data/inputs/input_952.txt 0
 ../data/inputs/input_953.txt 0
 ../data/inputs/input_954.txt 193
@@ -2724,7 +2955,8 @@
 ../data/inputs/input_958.txt 592
 ../data/inputs/input_959.txt 79
 ../data/inputs/input_96.txt 113
-../data/inputs/input_960.txt ../data/inputs/input_961.txt 116
+../data/inputs/input_960.txt 
+../data/inputs/input_961.txt 116
 ../data/inputs/input_962.txt 88
 ../data/inputs/input_963.txt 103
 ../data/inputs/input_964.txt 134
@@ -2741,8 +2973,10 @@
 ../data/inputs/input_974.txt 142
 ../data/inputs/input_975.txt 87
 ../data/inputs/input_976.txt 0
-../data/inputs/input_977.txt ../data/inputs/input_978.txt 241
-../data/inputs/input_979.txt ../data/inputs/input_98.txt 69
+../data/inputs/input_977.txt 
+../data/inputs/input_978.txt 241
+../data/inputs/input_979.txt 
+../data/inputs/input_98.txt 69
 ../data/inputs/input_980.txt 0
 ../data/inputs/input_981.txt 0
 ../data/inputs/input_982.txt 143
@@ -2753,9 +2987,11 @@
 ../data/inputs/input_987.txt 255
 ../data/inputs/input_988.txt 0
 ../data/inputs/input_989.txt 0
-../data/inputs/input_99.txt ../data/inputs/input_990.txt 585
+../data/inputs/input_99.txt 
+../data/inputs/input_990.txt 585
 ../data/inputs/input_991.txt 0
-../data/inputs/input_992.txt ../data/inputs/input_993.txt 0
+../data/inputs/input_992.txt 
+../data/inputs/input_993.txt 0
 ../data/inputs/input_994.txt 0
 ../data/inputs/input_995.txt 60
 ../data/inputs/input_996.txt 117
